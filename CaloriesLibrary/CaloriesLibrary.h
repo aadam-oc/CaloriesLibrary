@@ -13,4 +13,4 @@ namespace CaloriesLibrary
     void initEjercicios();
     void listaEjercicios();
     int caloriasquemadas();
-}
+} 
